@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm FROSTBLACK</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=webfrostblack&label=Profile%20views&color=0e75b6&style=flat" alt="webfrostblack" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webfrostblack" alt="webfrostblack" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/-super-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="-super-" height="30" width="40" /></a>
