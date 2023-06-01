@@ -6,6 +6,7 @@
 <a href="https://codepen.io/-super-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="-super-" height="30" width="40" /></a>
 <a href="https://dev.to/webfrostblack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="webfrostblack" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/frostblack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="frostblack" height="30" width="40" /></a>
+  <h4>Discord : FrostBlack#2760 </h4>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
