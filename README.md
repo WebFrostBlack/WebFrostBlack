@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm FrostBlack</h1>
 <h3 align="center">A passionate frontend developer from France !</h3>
 
-- 🔭 I’m currently working on Nothing Now.
+- 🔭 I’m currently working on a Forum !
 
 - 👨‍💻 All of my projects are available at [https://frostblack-portfolio.onrender.com/](https://frostblack-portfolio.onrender.com/)
 
