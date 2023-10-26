@@ -22,6 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webfrostblack&show_icons=true&locale=en&layout=compact" alt="webfrostblack" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webfrostblack&" alt="webfrostblack" /></p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/781161229762297856?theme=light&bg=ededed)](https://discord.com/users/781161229762297856)
