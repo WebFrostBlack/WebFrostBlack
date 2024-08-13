@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Novincept**
 
-- 🌱 I’m currently learning **python, node.js ..**
+- 🌱 I’m currently learning **python, node.js, go ..**
 
 - 👯 I’m looking to collaborate on **a project**
 
