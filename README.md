@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://frostblack.fr/](https://frostblack.fr/)
 
-- 📫 How to reach me **webfrostblack@gmail.com**
+- 📫 How to reach me **contact@frostblack.fr**
 
 <p align="left">
 </p>
