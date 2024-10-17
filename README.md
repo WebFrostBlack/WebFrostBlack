@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/webfrostblack/webfrostblack/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/<ton-utilisateur>/<ton-repo>/blob/output/snake.svg)
 
 ###
 
