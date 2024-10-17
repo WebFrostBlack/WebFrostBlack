@@ -32,8 +32,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nuxtjs" height="47" alt="nuxtjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="47" alt="vuejs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="47" alt="vscode logo"  />
 </div>
 
