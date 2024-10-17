@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/<ton-utilisateur>/<ton-repo>/blob/output/snake.svg)
+![snake gif](https://github.com/WebFrostBlack/WebFrostBlack/blob/output/snake.svg)
 
 ###
 
