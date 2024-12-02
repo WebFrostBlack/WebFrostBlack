@@ -18,8 +18,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="47" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="47" alt="react logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="47" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="47" alt="css3 logo"  />
